@@ -1,6 +1,6 @@
 package String;
 
-public class Program6 {
+public class PalindromeOrNot {
     public static void main(String[] args) {
         String s = "malayalam";
         System.out.println(isPalindrome(s));

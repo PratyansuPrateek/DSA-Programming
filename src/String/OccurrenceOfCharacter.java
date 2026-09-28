@@ -3,7 +3,7 @@ package String;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Program7 {
+public class OccurrenceOfCharacter {
     public static void main(String[] args) {
         String s="banana";
         occurrence(s);

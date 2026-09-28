@@ -1,6 +1,6 @@
 package String;
 
-public class Problem4 {
+public class RemoveCharacterInBetween {
     public static void main(String[] args) {
         String s = "zzzopzip";
         System.out.println(zipZap(s));

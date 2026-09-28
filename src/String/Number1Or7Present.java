@@ -1,6 +1,6 @@
 package String;
 
-public class Problem3 {
+public class Number1Or7Present {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4};
         System.out.println(no14(arr));

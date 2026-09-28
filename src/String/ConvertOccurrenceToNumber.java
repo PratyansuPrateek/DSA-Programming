@@ -3,7 +3,7 @@ package String;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Program8 {
+public class ConvertOccurrenceToNumber {
     public static void main(String[] args) {
         String s = "aaabbcccdee";
         System.out.println(convert(s));

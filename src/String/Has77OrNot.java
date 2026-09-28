@@ -1,6 +1,6 @@
 package String;
 
-public class Problem2 {
+public class Has77OrNot {
     public static void main(String[] args) {
         int[] arr = {1,7,1,7};
         System.out.println(has77(arr));

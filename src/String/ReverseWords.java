@@ -1,6 +1,6 @@
 package String;
 
-public class Program5 {
+public class ReverseWords {
     public static void main(String[] args) {
         String s = "my name is happy";
         System.out.println(reverseWord(s));
